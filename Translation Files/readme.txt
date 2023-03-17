@@ -9,11 +9,6 @@
     You can find an exe file including all the python files needed.
     Usually, you can just download and use this exe file.
     
-  1-2. [python]
-    Python files are stored here. 
-    If you would like to see the inside of codes, you can freely check them.
-    Also, you can download and customize them if needed.
-    
 2. How to use
   2-1. Download the exe file from [exe] folder, and double click the exe file.
   2-2. There would be three dropdown questions, so select answers based on your usage.
@@ -31,3 +26,4 @@
 
 ***History***
 2021-Oct-8th  Initial version of the application was published.
+2023-Mar-17th [python]folder was deleted for publication.
